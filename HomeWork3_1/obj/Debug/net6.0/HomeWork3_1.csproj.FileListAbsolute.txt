@@ -1,0 +1,15 @@
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.csproj.AssemblyReference.cache
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.AssemblyInfoInputs.cache
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.AssemblyInfo.cs
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.csproj.CoreCompileInputs.cache
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\bin\Debug\net6.0\HomeWork3_1.exe
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\bin\Debug\net6.0\HomeWork3_1.deps.json
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\bin\Debug\net6.0\HomeWork3_1.runtimeconfig.json
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\bin\Debug\net6.0\HomeWork3_1.dll
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\bin\Debug\net6.0\HomeWork3_1.pdb
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.dll
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\refint\HomeWork3_1.dll
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.pdb
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\HomeWork3_1.genruntimeconfig.cache
+D:\Все, что связано с geekbrains\HomeWork Seminar 3\HomeWork3_1\obj\Debug\net6.0\ref\HomeWork3_1.dll
